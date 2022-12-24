@@ -1,4 +1,4 @@
-# nodejs-exponential-backoff-algorithm
+# js-exponential-backoff-algorithm
 
 ## Overview
 
